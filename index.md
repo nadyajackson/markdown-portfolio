@@ -1,8 +1,6 @@
-layout: default
 ---
 
 {% include 01-name.md %}
-add-images-links
 
 <br>
 
